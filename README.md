@@ -16,9 +16,7 @@ A modern, full-stack e-commerce shopping cart application built with React, Node
 - [Installation & Setup](#installation--setup)
 - [MongoDB Compass Guide](#mongodb-compass-guide)
 - [API Documentation](#api-documentation)
-- [Screenshots](#screenshots)
-- [Bonus Features](#bonus-features)
-- [Demo Video](#demo-video)
+- [Additional Features](#additional-features)
 - [Author](#author)
 
 ## ✨ Features
@@ -31,7 +29,7 @@ A modern, full-stack e-commerce shopping cart application built with React, Node
 - **Order Receipt**: Mock order confirmation with order ID and timestamp
 - **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
 
-### Bonus Features Implemented
+### Additional Features Implemented
 - ✅ **MongoDB Database Integration**: Full data persistence with Mongoose ODM
 - ✅ **Error Handling**: Comprehensive error handling on both frontend and backend
 - ✅ **Form Validation**: Client-side validation for checkout form
@@ -45,7 +43,6 @@ A modern, full-stack e-commerce shopping cart application built with React, Node
 ### Frontend
 - **React** (v18.2.0) - UI Framework
 - **Axios** - HTTP client for API requests
-- **React Hot Toast** - Toast notifications
 - **CSS3** - Custom styling with gradients and animations
 
 ### Backend
